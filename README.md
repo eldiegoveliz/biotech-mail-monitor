@@ -11,6 +11,10 @@ Gemini acts as a senior financial analyst, filtering the noise (like marketing e
 
 Special focus is given to uncovering catalysts in **Microcap and Small-cap** biotech companies that are often buried in the news.
 
+### Example
+
+<img width="1330" height="927" alt="2026-04-14-20:58:26" src="https://github.com/user-attachments/assets/5d9cbf6e-81e1-492e-bc26-9ccb6ab3c32e" />
+
 ## Features
 * **ETL Architecture:** Separates data gathering (Bash + Python) from data analysis (LLM), preventing rate-limit issues (HTTP 429) common in agentic LLM loops.
 * **Cloudflare Bypass:** Uses Python's `cloudscraper` to access institutional calendars (like Benzinga) that block standard bots.
