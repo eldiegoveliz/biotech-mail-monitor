@@ -1,4 +1,4 @@
-# Biotech Monitor Pipeline
+# Biotech Monitor
 
 A CLI automation tool designed to monitor the biotechnology sector, aggregate news, and track upcoming FDA catalysts using LLM analysis (Gemini in this case).
 
