@@ -32,8 +32,8 @@ Special focus is given to uncovering catalysts in **Microcap and Small-cap** bio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/biotech-intelligence-pipeline.git
-   cd biotech-intelligence-pipeline
+   git clone https://github.com/eldiegoveliz/biotech-mail-monitor.git
+   cd biotech-mail-monitor
    ```
 
 2. **Set up the Python Virtual Environment:**
